@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/authix-core",
+  "packageVersion": "1.0.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/authix-core",
+  "usageRepository": "https://github.com/x12i-sdk/authix-core",
+  "sourceRepository": "https://github.com/x12i/authix",
+  "sourceCommit": "dc63d85812526248b1dade3f25131205c36be51f",
+  "sourcePackageDirectory": "packages/token-core",
+  "example": {
+    "title": "Create and verify signed and encrypted tokens locally",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:37:56.406836+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "0cc38c8d3b604493e907d2eb4d86d9e2acf4ae326f81d0d1cc22d1e662556067",
+    "manifestSha256": "74b09fa5cc1ee02f5b5f653757b3acf64785cb9288d1f4abece1166f4d2516d4"
+  }
+}
